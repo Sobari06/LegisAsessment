@@ -1,9 +1,6 @@
 streamlit
 pandas
 plotly_express
-openpyxl
-PIL 
-Image
 streamlit_lottie
 st_lottie
 requests
