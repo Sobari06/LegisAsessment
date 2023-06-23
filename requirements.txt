@@ -2,6 +2,5 @@ streamlit
 pandas
 plotly_express
 streamlit_lottie
-st_lottie
 requests
 Halaman
