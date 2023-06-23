@@ -2,4 +2,5 @@ streamlit
 pandas
 plotly_express
 streamlit_lottie
+openpyxl
 requests
